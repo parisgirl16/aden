@@ -1,0 +1,43 @@
+body {
+  background-color: #ADD2FC; /*light blue*/
+  color: #272F66; /*navy*/
+}
+
+.title {
+  text-align: center;
+  font-size: 300%;
+}
+
+.link {
+  text-align: center;
+  font-size: 125%;
+}
+
+.home {
+  font-size: 125%;
+  text-decoration: none;
+  color: #272F66;
+}
+
+.allPictures {
+  background-color: #D4C03D;
+  padding: 5px;
+}
+
+.pictureSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+img {
+  max-width: 25%;
+}
+
+.contacts {
+  background-color: #D4C03D; /*yellow*/
+  width: 15%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2px;
+}
